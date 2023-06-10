@@ -1,0 +1,33 @@
+#contain{
+    margin-right:-16px;
+    padding:0;
+}
+
+.top{
+    position:absolute;
+    top:215px;
+    left:8px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    display:inline-block;
+    width:70%;
+    font-weight: bold;
+    color:white;
+    background-color:black;
+}
+.bottom{
+    position:relative;
+    top:-50px;
+    right:8px;
+    padding: 0px -20px 0px 0px;
+    margin: 20px 0px 0px 8px;
+    display:inline-block;
+    width:70%;
+    font-weight: bold;
+    color:white;
+    background-color:black;
+}
+.meme{
+    display:inline-block;
+    width:70%
+}
