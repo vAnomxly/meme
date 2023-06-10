@@ -1,4 +1,5 @@
 import React,{Component} from "react"
+import './style.css';
 
 class MemeGenerator extends Component{
     constructor(){
@@ -37,7 +38,7 @@ class MemeGenerator extends Component{
     
     render(){
     return(
-        <div>
+        <div id="contain">
             <form>
                 <input 
                 onChange={this.handleChange}
